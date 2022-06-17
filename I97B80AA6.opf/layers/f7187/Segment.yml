@@ -1,0 +1,49 @@
+id: fbbcfeed25c34706a097366991026e3b
+annotation_type: Segment
+revision: '00001'
+annotations:
+  534d25f598f843ea933157b8931d2b6e:
+    span:
+      start: 0
+      end: 55
+    metadata: {}
+  b8995b9be4df4817a0457abcf4e5ba47:
+    span:
+      start: 57
+      end: 75
+    metadata: {}
+  93f64140d72a4e2e9b10aa70b2490a8e:
+    span:
+      start: 77
+      end: 135
+    metadata: {}
+  ad79796ef920413084b7703ee4432366:
+    span:
+      start: 137
+      end: 224
+    metadata: {}
+  7340a63cb5b547458a2fe6e444e7bed7:
+    span:
+      start: 226
+      end: 258
+    metadata: {}
+  0dc0a48f9ba94b8a8fba7db424654626:
+    span:
+      start: 260
+      end: 1633
+    metadata: {}
+  b70dda667a664a49894c389091e3882a:
+    span:
+      start: 1635
+      end: 1743
+    metadata: {}
+  ce304029225c4eca9d03f09ead65ea26:
+    span:
+      start: 1745
+      end: 1902
+    metadata: {}
+  48b811d6b494468eb864eb6f0b592446:
+    span:
+      start: 1904
+      end: 2492
+    metadata: {}
